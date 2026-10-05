@@ -22,6 +22,18 @@ A new session-authentication learning project with validated registration, BCryp
 
 [Design decisions](https://github.com/Sevyn1/account-access-lab/blob/main/docs/DESIGN.md) · [Tests](https://github.com/Sevyn1/account-access-lab/actions) · [Preview and setup](https://github.com/Sevyn1/account-access-lab)
 
+### [ShipCarte Freight Review](https://github.com/Sevyn1/shipcarte-freight-review)
+
+Maintenance of a shared Java course-project module: corrected conversion precision, rejected unsupported units, and added 13 regression tests. Includes the original baseline and contributor credits; carrier credentials and production settings are excluded.
+
+**Java · Maven · JUnit · numerical validation**
+
+### [Stark — Employee and Task Management](https://github.com/Sevyn1/stark)
+
+Existing Flutter/Firebase application with employee invitations, projects, task assignments, attendance and messaging. Recent repairs improve transactional task creation, invitation batches and status queries; eight fake-Firestore tests pass and the web build compiles.
+
+**Dart · Flutter · Firebase · Firestore · Riverpod**
+
 ### [Reverse Dictionary AI](https://github.com/Sevyn1/reverse-dictionary-ai)
 
 A description-to-word application with a Python/FastAPI API, SQLite vocabulary, and React interface. Optional OpenAI reranking is constrained to retrieved candidate IDs; validation covers malformed output, invalid references, timeouts, and provider failures.
@@ -52,11 +64,11 @@ Responsive marketing and waitlist frontend with asynchronous form feedback, shar
 
 **ProxiMeet admin** — React/TypeScript administration interface with typed API access, explicit demo modes, session-state validation, and automated checks. Private application source stays private.
 
-## How I work with AI
+## Engineering approach
 
-I use Codex, Copilot, and OpenCode to help translate requirements into implementations. Shared project context and decision logs keep agent sessions consistent. Automated tests, readable changes, and documented verification make the results reviewable.
+I define requirements, break work into reviewable changes, read the implementation, and check results with automated tests and example flows. I use Codex to assist with implementation, debugging and documentation while keeping design decisions and validation visible.
 
-The recent portfolio demos were created with Codex assistance. Their READMEs record implementation scope, test coverage, and live-service boundaries. Reverse Dictionary's local retrieval is keyword-based; OpenAI calls are optional, and provider tests are mocked.
+Project READMEs record shared-source history, recent maintenance, test coverage and development limits. Live-service verification is documented separately from mocked-provider tests.
 
 ## Technical focus
 
@@ -68,4 +80,4 @@ The recent portfolio demos were created with Codex assistance. Their READMEs rec
 | AI applications | OpenAI integrations, transcription, retrieval and citation handling |
 | Delivery | Git, automated tests, CI, Docker project exposure |
 
-Currently strengthening React fundamentals and extending the public projects with small, well-tested improvements.
+Current focus: Java APIs, React interfaces, Python integrations, and maintainable application workflows.
