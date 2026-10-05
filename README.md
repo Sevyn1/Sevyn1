@@ -30,7 +30,7 @@ Reviewed Java course-project freight module with a working browser calculator, p
 
 ### [Stark — Employee and Task Management](https://github.com/Sevyn1/stark)
 
-Consolidated Flutter/Firebase employee-management application with connected account forms, scoped projects/tasks, daily attendance, team messages and image uploads. Migrated to Flutter 3.47.2; 18 repository tests, GitHub CI, browser and iOS simulator builds pass. Native visual and live-production checks are tracked separately.
+Consolidated Flutter/Firebase employee-management application with real account sign-in, scoped projects/tasks, daily attendance and team text messages. Migrated to Flutter 3.47.2; 19 app tests and 19 security-rule tests pass. Owned Firebase backend checked through signup, workspace creation, invitations and task completion. Live uploads are disabled for the Spark plan; local emulator uploads remain available.
 
 **Dart · Flutter · Firebase · Firestore · Riverpod**
 
