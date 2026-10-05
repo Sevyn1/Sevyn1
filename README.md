@@ -2,7 +2,7 @@
 
 Software developer in Hamilton, Ontario. My work spans Java/Spring Boot APIs, Python tools, React web interfaces, and SQL-backed applications. I use coding agents to help translate requirements into code, with project context, review, and tests alongside the generated changes.
 
-B.Sc. Software Engineering, Babcock University · Java training with project work, Pragra Canada, 2024.
+B.Sc. Software Engineering, Babcock University · [Full Stack Java Developer Course](https://pragra.io/courses/java-full-stack-development), Pragra Canada, 2024.
 
 ## Start with these projects
 
