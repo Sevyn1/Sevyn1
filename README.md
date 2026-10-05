@@ -1,33 +1,52 @@
-# Favour Ojo
+![Favour Ojo — Software Engineering](assets/header.svg)
 
-Software developer in Hamilton, Ontario. My work spans Java/Spring Boot APIs, Python tools, React web interfaces, and SQL-backed applications. I use coding agents to help translate requirements into code, with project context, review, and tests alongside the generated changes.
+I build backend APIs, web interfaces, and AI-enabled applications. My work combines **Java/Spring Boot**, **Python**, **React**, and **SQL**, with an emphasis on clear requirements, reliable integrations, and code that can be tested and explained.
 
-B.Sc. Software Engineering, Babcock University · [Full Stack Java Developer Course](https://pragra.io/courses/java-full-stack-development), Pragra Canada, 2024.
+Based in Hamilton, Ontario · B.Sc. Software Engineering, Babcock University · [Pragra Full Stack Java Developer Course](https://pragra.io/courses/java-full-stack-development), 2024
 
-## Start with these projects
+## Selected projects
 
-| Project | What to inspect | Technologies |
-| --- | --- | --- |
-| [Transaction Lab](https://github.com/Sevyn1/transaction-lab) | Validated expense API, exact decimal totals, SQL migration, React dashboard, Python CSV importer, and CI | Java, Spring Boot, React, Python, SQL |
-| [Reverse Dictionary AI](https://github.com/Sevyn1/reverse-dictionary-ai) | Description-to-word retrieval, optional model reranking, input/output validation, and provider-failure tests | Python, FastAPI, React, SQLite, OpenAI integration |
-| [ProxiMeet website](https://github.com/Sevyn1/Proximeet-Website) | Responsive website, asynchronous forms, shared design assets, and coding-agent context | JavaScript, HTML, CSS |
+### [Transaction Lab](https://github.com/Sevyn1/transaction-lab)
 
-The two portfolio demos use fictional or curated data. Their READMEs explain what was verified, how AI helped, and the remaining limitations. Reverse Dictionary's local mode is keyword retrieval; OpenAI execution requires server configuration, and provider tests use mocked responses.
+A complete local expense-ledger demo: validated Java/Spring Boot API, SQL migrations, React dashboard, and Python CSV ingestion. Uses decimal arithmetic for money, rejects duplicate references, and reports invalid imports.
 
-## Additional application work
+**Java · Spring Boot · JDBC · SQL · React · Python**  
+[Architecture and setup](https://github.com/Sevyn1/transaction-lab#stack-and-architecture) · [Tests](https://github.com/Sevyn1/transaction-lab/actions) · [API examples](https://github.com/Sevyn1/transaction-lab#api-examples)
 
-**iWord** is a private React/Next.js and TypeScript application with Supabase/PostgreSQL integration, RSS ingestion, transcription, and retrieval-based Q&A code with timestamped sources. Implementation and live-service verification are tracked separately. I maintain shared context and decisions for Copilot/OpenCode workflows; private source stays private.
+### [Reverse Dictionary AI](https://github.com/Sevyn1/reverse-dictionary-ai)
 
-**ProxiMeet** includes application development and a React/TypeScript admin interface in addition to the public website. The public website repository demonstrates the web work; it does not expose the private app or prove every backend feature is deployed.
+A description-to-word application with a Python/FastAPI API, SQLite vocabulary, and React interface. Optional OpenAI reranking is constrained to retrieved candidate IDs; validation covers malformed output, invalid references, timeouts, and provider failures.
 
-## Engineering interests
+**Python · FastAPI · SQLite · React · OpenAI integration**  
+[How it works](https://github.com/Sevyn1/reverse-dictionary-ai#implementation) · [Tests](https://github.com/Sevyn1/reverse-dictionary-ai/actions) · [Setup](https://github.com/Sevyn1/reverse-dictionary-ai#run-the-app)
 
-- Clear REST contracts, validation, SQL data models, and reproducible tests.
-- AI integrations that handle malformed output and service failures explicitly.
-- Coding-agent workflows with durable context, readable changes, and human review.
+### [ProxiMeet website](https://github.com/Sevyn1/Proximeet-Website)
 
-Current focus: strengthening React fundamentals through hands-on application work and expanding automated API tests.
+Responsive marketing and waitlist frontend with asynchronous form feedback, shared styling, and reduced-motion-aware interactions. Part of my broader ProxiMeet application work, including a private React/TypeScript admin dashboard.
 
-## AI assistance
+**JavaScript · HTML · CSS**  
+[Website](https://sevyn1.github.io/Proximeet-Website/) · [Source](https://github.com/Sevyn1/Proximeet-Website)
 
-Codex helped generate and verify the recent portfolio demos. Repository ownership does not mean every line was written manually. Each project includes setup instructions, test scope, and a walkthrough for understanding and extending the implementation.
+## Private application work
+
+**iWord** — React/Next.js and TypeScript sermon platform with Supabase/PostgreSQL integration, RSS ingestion, OpenAI transcription, and retrieval-augmented Q&A implementation with timestamped sources. The application is in development; live-service verification is tracked separately.
+
+**ProxiMeet admin** — React/TypeScript administration interface with typed API access, explicit demo modes, session-state validation, and automated checks. Private application source stays private.
+
+## How I work with AI
+
+I use Codex, Copilot, and OpenCode to help translate requirements into implementations. Shared project context and decision logs keep agent sessions consistent. Automated tests, readable changes, and documented verification make the results reviewable.
+
+The recent portfolio demos were created with Codex assistance. Their READMEs record implementation scope, test coverage, and live-service boundaries. Reverse Dictionary's local retrieval is keyword-based; OpenAI calls are optional, and provider tests are mocked.
+
+## Technical focus
+
+| Area | Technologies and practice |
+| --- | --- |
+| Backend | Java, Spring Boot, Python, FastAPI, REST APIs |
+| Web | JavaScript, React project work, TypeScript, HTML/CSS |
+| Data | SQL, PostgreSQL/Supabase, SQLite, schema migrations |
+| AI applications | OpenAI integrations, transcription, retrieval and citation handling |
+| Delivery | Git, automated tests, CI, Docker project exposure |
+
+Currently strengthening React fundamentals and extending the public projects with small, well-tested improvements.

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="260" viewBox="0 0 1100 260" role="img" aria-labelledby="title desc">
+  <title id="title">Favour Ojo Software Engineering</title>
+  <desc id="desc">Java, Python, React and AI application development</desc>
+  <rect width="1100" height="260" rx="14" fill="#122c35"/>
+  <path d="M830 0V260M940 0V260M1050 0V260M760 65H1100M760 130H1100M760 195H1100" stroke="#25444d" stroke-width="1"/>
+  <rect x="52" y="46" width="44" height="5" rx="2" fill="#83d1b4"/>
+  <text x="52" y="116" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" fill="#f6faf9">Favour Ojo</text>
+  <text x="54" y="160" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#c4d5d6">Software Engineering</text>
+  <text x="54" y="206" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#83d1b4">JAVA / PYTHON / REACT / AI APPLICATIONS</text>
+  <path d="M816 76L790 130L816 184M1002 76L1028 130L1002 184M939 66L883 194" fill="none" stroke="#83d1b4" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
