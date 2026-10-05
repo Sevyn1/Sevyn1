@@ -10,21 +10,24 @@ Based in Hamilton, Ontario · B.Sc. Software Engineering, Babcock University · 
 
 A complete local expense-ledger demo: validated Java/Spring Boot API, SQL migrations, React dashboard, and Python CSV ingestion. Uses decimal arithmetic for money, rejects duplicate references, and reports invalid imports.
 
-**Java · Spring Boot · JDBC · SQL · React · Python**  
+**Java · Spring Boot · JDBC · SQL · React · Python**
+
 [Architecture and setup](https://github.com/Sevyn1/transaction-lab#stack-and-architecture) · [Tests](https://github.com/Sevyn1/transaction-lab/actions) · [API examples](https://github.com/Sevyn1/transaction-lab#api-examples)
 
 ### [Reverse Dictionary AI](https://github.com/Sevyn1/reverse-dictionary-ai)
 
 A description-to-word application with a Python/FastAPI API, SQLite vocabulary, and React interface. Optional OpenAI reranking is constrained to retrieved candidate IDs; validation covers malformed output, invalid references, timeouts, and provider failures.
 
-**Python · FastAPI · SQLite · React · OpenAI integration**  
+**Python · FastAPI · SQLite · React · OpenAI integration**
+
 [How it works](https://github.com/Sevyn1/reverse-dictionary-ai#implementation) · [Tests](https://github.com/Sevyn1/reverse-dictionary-ai/actions) · [Setup](https://github.com/Sevyn1/reverse-dictionary-ai#run-the-app)
 
 ### [ProxiMeet website](https://github.com/Sevyn1/Proximeet-Website)
 
 Responsive marketing and waitlist frontend with asynchronous form feedback, shared styling, and reduced-motion-aware interactions. Part of my broader ProxiMeet application work, including a private React/TypeScript admin dashboard.
 
-**JavaScript · HTML · CSS**  
+**JavaScript · HTML · CSS**
+
 [Website](https://sevyn1.github.io/Proximeet-Website/) · [Source](https://github.com/Sevyn1/Proximeet-Website)
 
 ## Private application work
