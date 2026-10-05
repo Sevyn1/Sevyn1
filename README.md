@@ -36,7 +36,7 @@ Existing Flutter/Firebase application with employee invitations, projects, task 
 
 ### [Reverse Dictionary AI](https://github.com/Sevyn1/reverse-dictionary-ai)
 
-A description-to-word application with a Python/FastAPI API, SQLite vocabulary, and React interface. Optional OpenAI reranking is constrained to retrieved candidate IDs; validation covers malformed output, invalid references, timeouts, and provider failures.
+A description-to-word application with a Python/FastAPI API and React interface. AI search suggests words beyond the SQLite catalog, validates generated word/definition results, and transparently falls back to local search after provider failures.
 
 **Python · FastAPI · SQLite · React · OpenAI integration**
 
