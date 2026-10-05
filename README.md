@@ -14,6 +14,14 @@ A complete local expense-ledger demo: validated Java/Spring Boot API, SQL migrat
 
 [Architecture and setup](https://github.com/Sevyn1/transaction-lab#stack-and-architecture) · [Tests](https://github.com/Sevyn1/transaction-lab/actions) · [API examples](https://github.com/Sevyn1/transaction-lab#api-examples)
 
+### [Account Access Lab](https://github.com/Sevyn1/account-access-lab)
+
+A new session-authentication learning project with validated registration, BCrypt password storage, SQL migrations and a protected account API. Built with Codex assistance; 18 integration tests and a browser signup/login/logout check verify the local flow.
+
+**Java · Spring Security · JDBC · Flyway · SQL · JavaScript**
+
+[Design decisions](https://github.com/Sevyn1/account-access-lab/blob/main/docs/DESIGN.md) · [Tests](https://github.com/Sevyn1/account-access-lab/actions) · [Preview and setup](https://github.com/Sevyn1/account-access-lab)
+
 ### [Reverse Dictionary AI](https://github.com/Sevyn1/reverse-dictionary-ai)
 
 A description-to-word application with a Python/FastAPI API, SQLite vocabulary, and React interface. Optional OpenAI reranking is constrained to retrieved candidate IDs; validation covers malformed output, invalid references, timeouts, and provider failures.
