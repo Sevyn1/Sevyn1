@@ -24,13 +24,13 @@ A new session-authentication learning project with validated registration, BCryp
 
 ### [ShipCarte Freight Review](https://github.com/Sevyn1/shipcarte-freight-review)
 
-Maintenance of a shared Java course-project module: corrected conversion precision, rejected unsupported units, and added 13 regression tests. Includes the original baseline and contributor credits; carrier credentials and production settings are excluded.
+Reviewed Java course-project freight module with a working browser calculator, precise unit conversions and input validation. Seventeen calculator/API tests pass; original baseline and contributor credits are retained.
 
 **Java · Maven · JUnit · numerical validation**
 
 ### [Stark — Employee and Task Management](https://github.com/Sevyn1/stark)
 
-Existing Flutter/Firebase application with employee invitations, projects, task assignments, attendance and messaging. Recent repairs improve transactional task creation, invitation batches and status queries; eight fake-Firestore tests pass and the web build compiles.
+Consolidated Flutter/Firebase employee-management application with connected account forms, scoped projects/tasks, daily attendance, team messages and image uploads. Migrated to Flutter 3.47.2; 18 repository tests, GitHub CI, browser and iOS simulator builds pass. Native visual and live-production checks are tracked separately.
 
 **Dart · Flutter · Firebase · Firestore · Riverpod**
 
