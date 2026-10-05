@@ -22,6 +22,14 @@ A description-to-word application with a Python/FastAPI API, SQLite vocabulary, 
 
 [How it works](https://github.com/Sevyn1/reverse-dictionary-ai#implementation) · [Tests](https://github.com/Sevyn1/reverse-dictionary-ai/actions) · [Setup](https://github.com/Sevyn1/reverse-dictionary-ai#run-the-app)
 
+### [Repository Development Agent](https://github.com/Sevyn1/repo-dev-agent)
+
+Recovered Python developer tooling with repository discovery, bounded file access, reviewed patches and backups, explicit command/image approval, and SQLite session memory. Tests cover the local tools and mocked provider request handling.
+
+**Python · OpenAI Agents SDK · SQLite · CLI tooling**
+
+[Setup and tool boundaries](https://github.com/Sevyn1/repo-dev-agent#run-without-a-key) · [Tests](https://github.com/Sevyn1/repo-dev-agent/actions) · [Design decisions](https://github.com/Sevyn1/repo-dev-agent/blob/main/docs/DESIGN_DECISIONS.md)
+
 ### [ProxiMeet website](https://github.com/Sevyn1/Proximeet-Website)
 
 Responsive marketing and waitlist frontend with asynchronous form feedback, shared styling, and reduced-motion-aware interactions. Part of my broader ProxiMeet application work, including a private React/TypeScript admin dashboard.
