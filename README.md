@@ -14,13 +14,13 @@ A complete local expense-ledger demo: validated Java/Spring Boot API, SQL migrat
 
 [Architecture and setup](https://github.com/Sevyn1/transaction-lab#stack-and-architecture) · [Tests](https://github.com/Sevyn1/transaction-lab/actions) · [API examples](https://github.com/Sevyn1/transaction-lab#api-examples)
 
-### [Account Access Lab](https://github.com/Sevyn1/account-access-lab)
+### [Spring Registration — Account Workspace](https://github.com/Sevyn1/spring-registration-private)
 
-Consolidated Java account application with validated email registration, BCrypt password storage, SQL migrations, private profile editing and password-confirmed settings. Built with Codex assistance; 34 integration tests cover authentication, settings, CSRF and migration preservation. Browser profile editing and session persistence were checked.
+Private consolidated Java account application with validated email registration, BCrypt password storage, SQL migrations, private profile editing and password-confirmed settings. Built with Codex assistance; 34 integration tests cover authentication, settings, CSRF and migration preservation. Browser profile editing and session persistence were checked.
 
 **Java · Spring Security · JDBC · Flyway · SQL · JavaScript**
 
-[Design decisions](https://github.com/Sevyn1/account-access-lab/blob/main/docs/DESIGN.md) · [Tests](https://github.com/Sevyn1/account-access-lab/actions) · [Preview and setup](https://github.com/Sevyn1/account-access-lab)
+[Design decisions](https://github.com/Sevyn1/spring-registration-private/blob/main/docs/DESIGN.md) · [Tests](https://github.com/Sevyn1/spring-registration-private/actions) · [Preview and setup](https://github.com/Sevyn1/spring-registration-private)
 
 ### [ShipCarte Freight Review](https://github.com/Sevyn1/shipcarte-freight-review)
 
