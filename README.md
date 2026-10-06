@@ -64,6 +64,8 @@ Responsive marketing and waitlist frontend with asynchronous form feedback, shar
 
 **ProxiMeet admin** — React/TypeScript administration interface with typed API access, explicit demo modes, session-state validation, and automated checks. Private application source stays private.
 
+**[It Is Time campaign archive](https://github.com/Sevyn1/it-is-time-campaign-website)** — Private HTML/CSS/JavaScript project restored with responsive navigation, searchable policy topics, keyboard-accessible gallery viewing and on-demand video. Static checks cover 13 pages and 352 local references; original campaign material and source history are preserved.
+
 ## Engineering approach
 
 I define requirements, break work into reviewable changes, read the implementation, and check results with automated tests and example flows. I use Codex to assist with implementation, debugging and documentation while keeping design decisions and validation visible.
