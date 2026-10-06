@@ -58,13 +58,17 @@ Responsive marketing and waitlist frontend with asynchronous form feedback, shar
 
 [Website](https://sevyn1.github.io/Proximeet-Website/) · [Source](https://github.com/Sevyn1/Proximeet-Website)
 
+### [It Is Time — Campaign Archive](https://github.com/Sevyn1/it-is-time-campaign-website)
+
+Restored campaign website with responsive navigation, searchable policy topics, keyboard-accessible gallery viewing and on-demand video. Static checks cover 13 pages and 352 local references; original material and source history are preserved.
+
+**HTML · CSS · JavaScript · Static content**
+
 ## Private application work
 
 **iWord** — React/Next.js and TypeScript sermon platform with Supabase/PostgreSQL integration, RSS ingestion, OpenAI transcription, and retrieval-augmented Q&A implementation with timestamped sources. The application is in development; live-service verification is tracked separately.
 
 **ProxiMeet admin** — React/TypeScript administration interface with typed API access, explicit demo modes, session-state validation, and automated checks. Private application source stays private.
-
-**[It Is Time campaign archive](https://github.com/Sevyn1/it-is-time-campaign-website)** — Private HTML/CSS/JavaScript project restored with responsive navigation, searchable policy topics, keyboard-accessible gallery viewing and on-demand video. Static checks cover 13 pages and 352 local references; original campaign material and source history are preserved.
 
 ## Engineering approach
 
