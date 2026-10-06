@@ -1,8 +1,23 @@
 ![Favour Ojo — Software Engineering](assets/header.svg)
 
-I build backend APIs, web interfaces, and AI-enabled applications. My work combines **Java/Spring Boot**, **Python**, **React**, and **SQL**, with an emphasis on clear requirements, reliable integrations, and code that can be tested and explained.
+I am a software engineer with five years of combined experience in software development, IT leadership and technical support. I build backend APIs, web interfaces, and AI-enabled applications. My work combines **Java/Spring Boot**, **Python**, **React**, and **SQL**, with an emphasis on clear requirements, reliable integrations, and code that can be tested and explained.
 
 Based in Hamilton, Ontario · B.Sc. Software Engineering, Babcock University · [Pragra Full Stack Java Developer Course](https://pragra.io/courses/java-full-stack-development), 2024
+
+## Development experience
+
+**ProxiMeet — Software Engineer / Developer (part-time), January 2025 - Present**
+Developed a proximity-networking application with authentication and messaging workflows. Built React/TypeScript administration views with typed API access, routing and session handling, and developed the responsive marketing and waitlist website. Worked with UI/UX collaborators to translate requirements into application features. The application and admin source remain private.
+
+**Readington School — Head of IT, August 2022 - June 2024**
+Developed and maintained school websites and internal software, including employee registration and student results-upload workflows. Supported the payment gateway and student/staff database, led IT operations, and configured student and employee workstations.
+
+**Cerebral and Dexter Ltd. — Software Developer Intern, February 2021 - June 2022**
+
+ Built the It Is Time election campaign website in Nigeria and contributed Java/Spring Boot REST APIs, PostgreSQL data structures and web interfaces for Historified.tv.
+
+**Freelance web development — June 2023 - Present**
+Built responsive HTML/CSS/JavaScript websites with API integrations and e-commerce features for client requirements.
 
 ## Selected projects
 
@@ -16,7 +31,7 @@ A complete local expense-ledger demo: validated Java/Spring Boot API, SQL migrat
 
 ### [Spring Registration — Account Workspace](https://github.com/Sevyn1/spring-registration-private)
 
-Private consolidated Java account application with validated email registration, BCrypt password storage, SQL migrations, private profile editing and password-confirmed settings. Built with Codex assistance; 34 integration tests cover authentication, settings, CSRF and migration preservation. Browser profile editing and session persistence were checked.
+Consolidated Java account application with validated email registration, BCrypt password storage, SQL migrations, private profile editing and password-confirmed settings. Includes session authentication, CSRF protection and migration preservation, with browser profile editing and persistence checks.
 
 **Java · Spring Security · JDBC · Flyway · SQL · JavaScript**
 
@@ -24,13 +39,13 @@ Private consolidated Java account application with validated email registration,
 
 ### [ShipCarte Freight Review](https://github.com/Sevyn1/shipcarte-freight-review)
 
-Reviewed Java course-project freight module with a working browser calculator, precise unit conversions and input validation. Seventeen calculator/API tests pass; original baseline and contributor credits are retained.
+Reviewed Java course-project freight module with a working browser calculator, precise unit conversions and input validation. Original baseline and contributor credits are retained.
 
 **Java · Maven · JUnit · numerical validation**
 
 ### [Stark — Employee and Task Management](https://github.com/Sevyn1/stark)
 
-Consolidated Flutter/Firebase employee-management application with real account sign-in, scoped projects/tasks, employee self check-in/checkout, manager attendance review searchable teammates, private conversations and team text messages. Migrated to Flutter 3.47.2; 29 app tests and 31 security-rule tests pass. Owned Firebase backend checked through signup, workspace creation, invitations, task completion and direct-message delivery. Live uploads are disabled for the Spark plan; local emulator uploads remain available.
+Consolidated Flutter/Firebase employee-management application with real account sign-in, scoped projects/tasks, employee self check-in/checkout, manager attendance review, searchable teammates, private conversations and team text messages. Modernized the Flutter implementation and enforced workspace and private-message access through Firestore security rules. Owned Firebase backend checked through signup, workspace creation, invitations, task completion and direct-message delivery. Live uploads are disabled for the Spark plan; local emulator uploads remain available.
 
 **Dart · Flutter · Firebase · Firestore · Riverpod**
 
@@ -60,13 +75,13 @@ Responsive marketing and waitlist frontend with asynchronous form feedback, shar
 
 ### [It Is Time — Campaign Archive](https://github.com/Sevyn1/it-is-time-campaign-website)
 
-Restored campaign website with responsive navigation, searchable policy topics, keyboard-accessible gallery viewing and on-demand video. Static checks cover 13 pages and 352 local references; original material and source history are preserved.
+Restored campaign website with responsive navigation, searchable policy topics, keyboard-accessible gallery viewing and on-demand video. Originally built during my software development internship in Nigeria; recently restored navigation, gallery and media behavior while preserving campaign material and source history.
 
 **HTML · CSS · JavaScript · Static content**
 
-## Private application work
+## Additional application work
 
-**iWord** — React/Next.js and TypeScript sermon platform with Supabase/PostgreSQL integration, RSS ingestion, OpenAI transcription, and retrieval-augmented Q&A implementation with timestamped sources. The application is in development; live-service verification is tracked separately.
+**[iWord](https://github.com/Sevyn1/iWord)** — React/Next.js and TypeScript sermon platform with Supabase/PostgreSQL integration, RSS ingestion, OpenAI transcription, and retrieval-augmented Q&A implementation with timestamped sources. The application is in development; live-service verification is tracked separately.
 
 **ProxiMeet admin** — React/TypeScript administration interface with typed API access, explicit demo modes, session-state validation, and automated checks. Private application source stays private.
 
