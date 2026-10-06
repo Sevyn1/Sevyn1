@@ -16,7 +16,7 @@ A complete local expense-ledger demo: validated Java/Spring Boot API, SQL migrat
 
 ### [Account Access Lab](https://github.com/Sevyn1/account-access-lab)
 
-A new session-authentication learning project with validated registration, BCrypt password storage, SQL migrations and a protected account API. Built with Codex assistance; 18 integration tests and a browser signup/login/logout check verify the local flow.
+Consolidated Java account application with validated email registration, BCrypt password storage, SQL migrations, private profile editing and password-confirmed settings. Built with Codex assistance; 34 integration tests cover authentication, settings, CSRF and migration preservation. Browser profile editing and session persistence were checked.
 
 **Java · Spring Security · JDBC · Flyway · SQL · JavaScript**
 
