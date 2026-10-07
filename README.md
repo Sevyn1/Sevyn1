@@ -19,6 +19,10 @@ Developed and maintained school websites and internal software, including employ
 **Freelance web development — June 2023 - Present**
 Built responsive HTML/CSS/JavaScript websites with API integrations and e-commerce features for client requirements.
 
+**Concentrix — Technical Support Advisor, August 2025 - Present**
+
+Diagnose application, operating-system, authentication and cloud-sync issues across mobile and desktop devices for a major consumer technology client. Isolate faults through structured troubleshooting, validate fixes and document reproduction steps, system context and escalation findings.
+
 ## Selected projects
 
 ### [Transaction Lab](https://github.com/Sevyn1/transaction-lab)
